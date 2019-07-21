@@ -15,3 +15,7 @@ This is example to show different parts of the Git repository and various comman
 This is a simle web project, deployment can be on any web server or even local filesystem.
 
 ## How to Contirubute
+
+### Copyright
+
+bwilla.lab 2019
