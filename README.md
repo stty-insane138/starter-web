@@ -16,6 +16,8 @@ This is a simle web project, deployment can be on any web server or even local f
 
 ## How to Contirubute
 
+Please fork this repository and then issue Pull request for review.
+
 ### Copyright
 
 bwilla.lab 2019
