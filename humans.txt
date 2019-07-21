@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Brian Williams	bwilla@mail	@barelyleagable
 
 # THANKS
 
