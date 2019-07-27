@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull request for review.
 
 ### Copyright
 
-bwilla.lab 2019
+bwilla.lab 2019. All rights reserved
